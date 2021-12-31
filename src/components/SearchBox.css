@@ -1,0 +1,10 @@
+input:focus {
+  outline: none;
+  border-color: #719ece;
+  box-shadow: 0 0 10px #719ece;
+}
+textarea:focus {
+  outline: none;
+  border-color: #719ece;
+  box-shadow: 0 0 10px #719ece;
+}
